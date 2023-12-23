@@ -1,2 +1,2 @@
-# University-Website-Fend-Drill
-A multipage interactive and Responsive website of University
+# University-Website-Home Page
+An Interactive and Responsive website of University done as a Practice
